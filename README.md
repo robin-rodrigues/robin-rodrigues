@@ -2,9 +2,22 @@
 
 I'm a Software Engineer L2 at eMeasurematics, based in Mumbai, Maharashtra, India. With over 3.5 years of experience, I specialize in Java, Spring Framework, Hibernate, MySQL, and Apache Airflow. Passionate about continuous learning and leveraging expertise to make meaningful contributions in full-time software engineering roles.
 
-- **LinkedIn:** [Robin Rodrigues](https://www.linkedin.com/in/robin-rodrigues-/)
-- **GitHub:** [robin-rodrigues](https://github.com/robin-rodrigues)
-- **Twitter:** [@robin_err](https://twitter.com/robin_err)
+## Connect with Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/robin-rodrigues-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:robinrodrigues6499@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Mobile -->
+  <a href="tel:+917208534988">
+    <img src="https://img.shields.io/badge/Mobile-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile"/>
+  </a>
+</p>
 
 ## GitHub Stats
 
