@@ -13,7 +13,7 @@ I'm a Software Engineer L2 at eMeasurematics, based in Mumbai, Maharashtra, Indi
   <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=robin-rodrigues&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&layout=compact&theme=synthwave&hide_rank=true" alt="robin-rodrigues" />
  </a>
  <a href="https://github.com/robin-rodrigues?tab=repositories">
-  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin-rodrigues&show_icons=true&locale=en&layout=compact&hide=html,css,jupyter%20notebook" alt="robin-rodrigues" />
+  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin-rodrigues&show_icons=true&locale=en&layout=compact&hide=html,css,jupyter%20notebook,ejs,scss" alt="robin-rodrigues" />
  </a>
 </div>
 
