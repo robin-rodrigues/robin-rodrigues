@@ -10,10 +10,10 @@ I'm a Software Engineer L2 at eMeasurematics, based in Mumbai, Maharashtra, Indi
 
 <div>
  <a href="https://github.com/robin-rodrigues?tab=repositories">
-  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=robin-rodrigues&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&show_icons=true&layout=compact&theme=synthwave&hide_rank=true" alt="robin-rodrigues" />
+  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api?username=robin-rodrigues&show_icons=true&locale=en&include_all_commits=true&hide=issues,stars,contribs&count_private=true&layout=compact&theme=synthwave&hide_rank=true" alt="robin-rodrigues" />
  </a>
  <a href="https://github.com/robin-rodrigues?tab=repositories">
-  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin-rodrigues&show_icons=true&locale=en&layout=compact" alt="robin-rodrigues" />
+  <img align="center" style="margin-top: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin-rodrigues&show_icons=true&locale=en&layout=compact&hide=html,css,jupyter%20notebook" alt="robin-rodrigues" />
  </a>
 </div>
 
@@ -25,9 +25,7 @@ I'm a Software Engineer L2 at eMeasurematics, based in Mumbai, Maharashtra, Indi
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="airflow" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
 ## Support
